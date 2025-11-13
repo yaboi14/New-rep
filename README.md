@@ -22,4 +22,4 @@
 | + setAge(int): void           |
 | + getHowBig(): String         |
 | + setHowBig(String): void     |
-+-------------------------------+
++-------------------------------|
